@@ -3,7 +3,7 @@ Title: Dictionaries (with modules)
 Author: Pierre Castéran
 Email: casteran@labri.fr
 Institution: Labri, Université Bordeaux 1, INRIA Futurs
-Date: Feb 6 2003
+Date: 2003-02-6
 Description: This file contains a specification for dictionaries, and
   an implementation using binary search trees. Coq's module system, 
   with module types and functors, is heavily used. It can be considered 
